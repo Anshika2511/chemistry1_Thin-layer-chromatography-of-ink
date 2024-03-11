@@ -1,1 +1,1 @@
-### Thin layer chromatography of ink
+### Gathering of knowledge about the chromatographic principles.

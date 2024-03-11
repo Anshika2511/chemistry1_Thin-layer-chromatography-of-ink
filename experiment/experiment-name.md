@@ -1,1 +1,1 @@
-## Experiment name
+## Thin layer chromatography of ink
