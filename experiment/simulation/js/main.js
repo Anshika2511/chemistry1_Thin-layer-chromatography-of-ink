@@ -35,7 +35,7 @@ const messages = ["Make yourself familiar with the equipments by hovering over t
    "Measure the distance travelled by the deep blue colour",
    "Measure the distance travelled by the violet colour",
    "Press on the next button",
-   "Enter the calcualted Rf value in the table below and then press the check button",
+   "Enter the calculated Rf value in the table below and then press the check button",
    "Check your values with the given data and further press the next button!"
 ];
 
@@ -831,7 +831,7 @@ var over7ml=document.querySelector("#over7ml")
     arrow.classList.remove("blink"); 
     ss.style.width="2.89%"
     ss.style.left="45.6%"  
-    ss.src="/pics/wetslidenew1.png"
+    ss.src="/images/wetslidenew1.png"
     wetslide.style.transitionDuration="0s"
     wetslide.style.visibility="hidden"
     captlc.style.transform="translate(50%,-364%)"
