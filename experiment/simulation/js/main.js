@@ -831,7 +831,7 @@ var over7ml=document.querySelector("#over7ml")
     arrow.classList.remove("blink"); 
     ss.style.width="2.89%"
     ss.style.left="45.6%"  
-    ss.src="/images/wetslidenew1.png"
+    ss.src="images/wetslidenew1.png"
     wetslide.style.transitionDuration="0s"
     wetslide.style.visibility="hidden"
     captlc.style.transform="translate(50%,-364%)"
