@@ -950,7 +950,7 @@ html,body{
     position: absolute;
     top: 50%;
     left: 50%;
-    width:50%;
+    width:40%;
     height:50%;
     transform: translate(-50%, -50%);
     background-color: rgb(248, 189, 189);
@@ -1089,7 +1089,7 @@ h5{
   #usertable{
     border-collapse: collapse;
     position: absolute;
-    height:50%;
+    height:55%;
     width:12%;
     top:15%;
     left:65%;
@@ -1114,7 +1114,7 @@ h5{
 #submitresult{
     position: absolute;
     visibility:hidden;
-    top:67%;
+    top:72%; /*67*/
     left:68%;
     height:5%;
     width:5%;

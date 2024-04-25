@@ -1415,3 +1415,10 @@ submitButton.disabled = false; // Initially disable submit button
       alert('Please fill in all required fields.');
     }
   });
+
+  const mediaQuery = window.matchMedia('(min-width: 768px)');
+
+// Check the initial state (optional)
+if (mediaQuery.matches) {
+  // Code to execute when the media query applies initially
+}
